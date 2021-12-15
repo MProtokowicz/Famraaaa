@@ -6,7 +6,7 @@
 * [Zakres funkcjonalności](#Zakres-funkcjonalności)
 * [Status projektu](#Status-projektu)
 ## Informacje ogólne
-Prosty program polegający na wpisywaniu informacji o warzywie i ich wyświetlaniu
+Prosty program polegający na wpisywaniu informacji o warzywie i ich wyświetlaniu.
 ## Technologie
 * C++
 * Microsoft Visual Studio
