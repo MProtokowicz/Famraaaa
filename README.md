@@ -1,7 +1,7 @@
 # Farma
 ## Spis treści
-[Informacje ogólne](#Informacje-ogolne)
-* Technologie
+[Informacje ogólne](#Informacje-ogólne)
+* [Technologie](#Technologie)
 * Uruchomienie
 * Zakres funkcjonalności
 * Status projektu
