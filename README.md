@@ -1,10 +1,10 @@
 # Farma
 ## Spis treści
-[Informacje ogólne](#Informacje-ogólne)
+* [Informacje ogólne](#Informacje-ogólne)
 * [Technologie](#Technologie)
-* Uruchomienie
-* Zakres funkcjonalności
-* Status projektu
+* [Uruchomienie](#Uruchomienie)
+* [Zakres funkcjonalności](#Zakres-funkcjonalności)
+* [Status projektu](#Status-projektu)
 ## Informacje ogólne
 Prosty program polegający na wpisywaniu informacji o warzywie i ich wyświetlaniu
 ## Technologie
